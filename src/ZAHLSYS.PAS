@@ -1,0 +1,21 @@
+UNIT ZahlSys;
+INTERFACE
+
+
+IMPLEMENTATION
+FUNCTION Dec2Hex(kl:BYTE):STRING;
+BEGIN
+ CASE kl OF
+  1:
+  2:
+  3:
+  4:
+  5:
+  6:
+  7:
+ END;
+END;
+
+
+BEGIN
+END.
